@@ -22,5 +22,11 @@ Click on any project below to view its source code, features, and detailed execu
 
 ---
 
+### [Project 3: Phishing Awareness & Triage Analysis](./Project-3-Phishing-Awareness-Analysis)
+
+A corporate security-focused analysis documenting simulated phishing attacks, isolating key indicators of compromise, and establishing an actionable triage model for organizations.
+
+* **Core Concepts:** Behavioral engineering analysis, domain spoofing detection, human firewall strategies, operational decision trees.
+* **Status:** Completed & Documented
 
 *Developed by Muhammad Ammar*
