@@ -29,4 +29,12 @@ A corporate security-focused analysis documenting simulated phishing attacks, is
 * **Core Concepts:** Behavioral engineering analysis, domain spoofing detection, human firewall strategies, operational decision trees.
 * **Status:** Completed & Documented
 
+
+### [Project 4: System Vulnerability & Hardening Audit](./Project-4-System-Vulnerability-Audit)
+
+A comprehensive local security audit of a Linux system evaluating PAM-based authentication, patch management backlogs, network firewall configurations, and disk encryption standards against NIST guidelines.
+
+* **Core Concepts:** PAM authentication & TOTP, package update management, iptables/UFW perimeter hardening, LUKS disk encryption, NIST SP 800-63B standards.
+* **Status:** Completed & Documented
+
 *Developed by Muhammad Ammar*
